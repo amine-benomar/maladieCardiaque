@@ -1,19 +1,19 @@
-# Heart Disease Prediction using Machine Learning
+# Prédiction des maladies cardiaques à l'aide de l'apprentissage automatique
 
-## Project Overview
-This repository contains a machine learning project aimed at predicting heart disease. Utilizing various ML algorithms and a dataset with heart disease patient records, this project seeks to accurately identify the presence of heart disease based on clinical parameters.
+## Aperçu du projet
+Ce dépôt contient un projet d'apprentissage automatique visant à prédire les maladies cardiaques. En utilisant divers algorithmes d'apprentissage automatique et un ensemble de données contenant des dossiers de patients atteints de maladies cardiaques, ce projet cherche à identifier avec précision la présence d'une maladie cardiaque sur la base de paramètres cliniques.
 
 ## Dataset
-The dataset used in this project contains several features such as age, sex, chest pain type, resting blood pressure, cholesterol levels, fasting blood sugar, and others. The source of the dataset is [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart+Disease) (or specify another source if different).
+L'ensemble de données utilisé dans ce projet contient plusieurs caractéristiques telles que l'âge, le sexe, le type de douleur thoracique, la pression artérielle au repos, le taux de cholestérol, la glycémie à jeun, etc. La source de l'ensemble de données est [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart+Disease) (ou spécifier une autre source si elle est différente).
 
 ## Features
-- `age`: Age of the patient
-- `sex`: Sex of the patient
-- `cp`: Chest pain type
-- `trestbps`: Resting blood pressure
-- `chol`: Serum cholesterol
-- ... (list other features)
-- `target`: Diagnosis of heart disease
+- `age` : Âge du patient
+- `sex` : Sexe du patient
+- `cp` : Type de douleur thoracique
+- `trestbps` : Pression artérielle au repos
+- `chol` : Cholestérol sérique
+- ... (liste des autres caractéristiques)
+- `target` : Diagnostic des maladies cardiaques
 
 ## Installation
 Instructions on how to set up the project environment:
