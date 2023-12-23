@@ -16,7 +16,7 @@ L'ensemble de données utilisé dans ce projet contient plusieurs caractéristiq
 - `target` : Diagnostic des maladies cardiaques
 
 ## Installation
-Instructions on how to set up the project environment:
+Instructions pour la mise en place de l'environnement du projet :
 ```bash
 git clone https://github.com/[your-username]/heart-disease-ml.git
 cd heart-disease-ml
